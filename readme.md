@@ -1,5 +1,5 @@
 
-
+visualstudiocode で Typescriptの開発
 ## 環境導入
 
 ### [gibo](https://github.com/simonwhitaker/gibo)
